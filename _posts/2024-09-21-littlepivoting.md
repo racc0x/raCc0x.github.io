@@ -22,7 +22,6 @@ image:
 # Network diagram
 
 ![Image](../assets/img/post/littlepivoting/image.png)
-![alt text](image.png)
 
 ## Nmap
 
