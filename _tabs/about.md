@@ -16,9 +16,9 @@ I'm always happy to chat if you have any questions.
 
 - Certifications:
 
-<a alt="Zephyr" href="https://www.linkedin.com/in/th%C3%A9o-chiles/overlay/1635516653561/single-media-viewer/?profileId=ACoAADT0-YEBqwHhA1HIRlRpqcjgpH9-PV3P86E"><img alt="Zephyr" src="/assets/img/Zephyr.png" height="100" width="75"/></a>
+<a alt="Zephyr" href="https://www.linkedin.com/in/edreihernandez/overlay/1738622533420/single-media-viewer/?profileId=ACoAAFL1YFUBKNANvYvpbRfb4Qm7oLpPNZW-tpM"><img alt="Zephyr" src="/assets/img/Zephyr.png" height="100" width="75"/></a>
 
-<a alt="Dante" href="https://www.linkedin.com/in/th%C3%A9o-chiles/details/featured/1635516657103/single-media-viewer/?profileId=ACoAADT0-YEBqwHhA1HIRlRpqcjgpH9-PV3P86E"><img alt="Dante" src="/assets/img/Dante.png" height="100" width="75"/></a>
+<a alt="Dante" href="https://www.linkedin.com/in/edreihernandez/details/certifications/1738622585358/single-media-viewer/?profileId=ACoAAFL1YFUBKNANvYvpbRfb4Qm7oLpPNZW-tpM"><img alt="Dante" src="/assets/img/Dante.png" height="100" width="75"/></a>
 
 - CTFs platforms:
 
