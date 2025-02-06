@@ -12,7 +12,7 @@ I also really like doing CTFs particularly on [Hackthebox](https://app.hackthebo
 
 I'm always happy to chat if you have any questions.
 
- I am currently completed Hack The Box ProLabs: [Dante]() [Zephyr]() [POO]()
+ I am currently completed Hack The Box ProLabs: [Dante](https://www.linkedin.com/in/edreihernandez/details/certifications/1738622585358/single-media-viewer/?profileId=ACoAAFL1YFUBKNANvYvpbRfb4Qm7oLpPNZW-tpM) [Zephyr](https://www.linkedin.com/in/edreihernandez/overlay/1738622533420/single-media-viewer/?profileId=ACoAAFL1YFUBKNANvYvpbRfb4Qm7oLpPNZW-tpM) [POO](https://www.linkedin.com/in/edreihernandez/details/certifications/)
 
 - Certifications:
 
